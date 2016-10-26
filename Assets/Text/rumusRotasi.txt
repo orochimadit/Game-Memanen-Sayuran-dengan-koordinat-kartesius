@@ -1,0 +1,5 @@
+Rumus Rotasi :
+[Cos Sudut  -Sin Sudut], [Sin Sudut  Cos Sudut] dikali [Posisi X, Y Laser]
+Baris 1 : (Cos Sudut * posisi X laser) ditambah (-Sin sudut * posisi Y laser) 
+Baris 2 :(Sin Sudut * posisi X laser) ditambah (Cos sudut * posisi Y laser)
+Jadi :
